@@ -1,0 +1,2 @@
+loadstring(game:HttpGet(('https://pastebin.com/raw/kkzSB2H3'),true))()
+toolkey = "key" --here a key for ussualy toolhub use other keys to more functions! (IT IS NOT KEY SYSTEM)
